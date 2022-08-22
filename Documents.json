@@ -1,0 +1,24 @@
+[
+    {
+        "Ticket ID": "2342d23442",
+        "Category": "Management",
+        "Priority": 2,
+        "Solution_Steps": "Step 1: .........\nStep 2:...........\n Step 3:.....",
+        "keywords": [
+            "12",
+            "123",
+            "123123"
+        ]
+    },
+    {
+        "Ticket ID": "2342d234sd42",
+        "Category": "Management",
+        "Priority": 2,
+        "Solution_Steps": "Step 1: .........\nStep 2:...........\n Step 3:.....",
+        "keywords": [
+            "12",
+            "123",
+            "123123"
+        ]
+    }
+]
